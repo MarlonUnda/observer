@@ -1,0 +1,4 @@
+com\mycompany\patronobserver\PatronObserver.class
+com\mycompany\patronobserver\SujetoObservable.class
+com\mycompany\patronobserver\Observador.class
+com\mycompany\patronobserver\ObservadorUsuario.class
